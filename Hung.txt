@@ -1,23 +1,12 @@
-﻿
-asdfasdf
+﻿asdfasdf
 Tao đạt nè
 asdfqwer
 asdf
-
 chadkeeper2809@gmail.com 
-
 aaaa
 123465
-
 Hùng push lần 2
-
-<<<<<<< HEAD
 Heilllo
-
-
-=======
->>>>>>> 9e0cbdda2b1b6283c4d00a5cd1dfbe62c2863720
-
 Tuấn Đạt 8h47
->>>>>>> fdf33949b97070bf5b188137e9c97287df9605c5
 Phúc Push lần 3
+Phúc 9h26
