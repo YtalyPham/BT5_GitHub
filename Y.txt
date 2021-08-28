@@ -1,4 +1,5 @@
-﻿Thì sửa dòng trên, thêm dòng mới
+﻿
+Thì sửa dòng trên, thêm dòng mới
 123456
 aaaaa
 132465
@@ -24,11 +25,6 @@ hello
 Ý 10h14 da them
 Ý 10h28
 Phúc 10h29
-<<<<<<< HEAD
-Phúc 9h10
+Ý 9h11
 Phúc 9h35
 Lại thêm 1 dòng mới
-=======
-Ý 9h11
-Phúc 9h10
->>>>>>> 4ab47f2934ca6ab0a0c9d327fe1d1dfb6aeea4db
