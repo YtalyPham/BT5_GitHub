@@ -1,6 +1,6 @@
 ﻿Sửa dòng cũ
-qw4er56
-asdfasdf
+Lại sửa lại thêm 1 dòng cũ
+Lại push thêm lần nữa
 Đạt push lên lần 1
 Ý 10h38
 132asdf
@@ -10,5 +10,5 @@ Phúc 9h26
 Phúc mạn phép ghé vô 10h01
 Ý 9h58
 Phúc 10h30
-Phúc 9h400
-Đạt 9h48
+Phúc 9h45
+Phúc 9h49
